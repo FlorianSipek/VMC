@@ -1,0 +1,30 @@
+
+
+*******************************************************************************
+Tue Sep 18 11:06:10 2018
+
+
+FIT:    data read from "Energy_1.dat" u (bin($2,binwidth)):(1.0)
+        format = x:z
+        x range restricted to [540.000 : 680.000]
+        #datapoints = 3997
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = A*exp((x-x0)^2 / B)
+BREAK: Need via and either parameter list or file
+
+*******************************************************************************
+Tue Sep 18 12:47:42 2018
+
+
+FIT:    data read from "Energy_1.dat" u (bin($2,binwidth)):(1.0)
+        format = x:z
+        x range restricted to [540.000 : 680.000]
+        #datapoints = 3997
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = A*exp((x-x0)^2 / B)
+fitted parameters initialized with current variable values
+
